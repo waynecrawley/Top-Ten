@@ -1,0 +1,75 @@
+/*Navbar*/
+
+.navbar-custom {
+    background-color: #000;
+}
+
+.navbar-custom .navbar-brand {
+    color:#fff;
+}
+
+.navbar-custom .navbar-text {
+    color:#fff;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color:#fff;
+}
+
+.article-title {
+    padding-top: 70px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+body {
+    margin: 5%;
+}
+h3 {
+    display: inline;
+    padding: 5px;
+    border-radius: 25px 25px 0px 0px;
+}
+
+.hr-style {
+    margin-top: 0px;
+    color: green;
+    background-color: green;
+    margin-right: 50%;
+}
+
+
+
+.car-container{
+    margin-bottom: 20px;
+    padding: 0px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+.article-thumbs {
+    padding-left: 0px;
+}
+
+.image-thumbs {
+    display: inline-block;
+}
+
+.p-styles {
+    margin-bottom: 0px;
+    padding-left: 15px;
+}
+
+
+.date {
+    font-size: 0.6em;
+    padding-left: 15px;
+    margin-bottom: 0px;
+}
+
+.table-styles {
+    margin-top: 10px;
+}
