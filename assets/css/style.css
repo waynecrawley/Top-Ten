@@ -99,3 +99,16 @@ h3 {
 .design-custom {
     font-size: 0.8em;
 }
+
+.image-headings {
+    width: 100%;
+    height: 100;
+}
+
+.image-container {
+    padding: 0%;
+}
+
+h4 {
+    padding: 5px;
+}
