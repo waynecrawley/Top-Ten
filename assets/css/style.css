@@ -25,6 +25,10 @@
 body {
     margin: 5%;
 }
+
+body,footer {
+    margin: 0%;
+}
 h3 {
     display: inline;
     padding: 5px;
@@ -51,7 +55,7 @@ h3 {
   }
 
 .article-thumbs {
-    padding-left: 0px;
+    
 }
 
 .image-thumbs {
@@ -72,4 +76,26 @@ h3 {
 
 .table-styles {
     margin-top: 10px;
+}
+
+.footer-custom  {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+}
+
+
+.social-custom {
+    color: #fff;
+}
+
+.social-custom:hover{
+    color: #d3d3d3;
+}
+
+.design-custom {
+    font-size: 0.8em;
 }
